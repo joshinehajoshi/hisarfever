@@ -1,0 +1,31 @@
+.navbar1{
+    background-color:#f5f5f5;
+    padding:10px 0px;
+}
+.one{
+    background-color: #f5f5f5;
+
+}
+.phoneno{
+    color:#6c6c6c;
+    font-size: 15px;
+}
+.navbar2{
+    box-shadow: 2px 6px 5px #888888;
+}
+.logonav{
+    background-color: white!important;
+}
+
+.servicediv{
+    background-image: url("https://www.hisarfever.com/wp-content/themes/hisarfever12/assets/css/../images/bg-2.png");
+    background-color: #fff;
+    text-align: center;
+    padding-top: 6rem;
+}
+
+@media screen and (max-width: 795px) {
+    .Register {
+        display: none;
+    }
+}

@@ -1,0 +1,74 @@
+.servicebg{
+    background-image: url("https://www.hisarfever.com/wp-content/themes/hisarfever12/assets/css/../images/bg-1.png");
+}
+
+
+
+
+.search input[type=text]{ 
+    width:500px; 
+    height:50px; 
+    border-radius:25px; 
+    border: 1px blue solid; 
+    box-shadow: 2px -1px 17px #77778B;
+} 
+      
+.search{ 
+ 
+} 
+      
+.search button{ 
+    background-color: #0074D9; 
+    color: #f2f2f2; 
+    float: right; 
+    padding: 5px 10px; 
+    margin-right: 16px; 
+    font-size: 12px; 
+    border: none; 
+    cursor: pointer; 
+}  
+
+
+.paraservice1{
+    justify-content: left;
+    line-height:2rem;
+    padding-bottom: 2rem;
+}
+
+.firstbut{
+    border-radius: 1rem;
+
+}
+
+
+.contactform1{
+    border-radius: 2rem;
+    width:25rem;
+    justify-content: right;
+    box-shadow: 2px 2px 22px;
+}
+
+.request{
+    font-size:15px;
+}
+.audit{
+    font-size:20px;
+}
+
+.li{
+    text-align: left;
+}
+
+.servicebg2{
+    background-image: url("https://www.hisarfever.com/wp-content/themes/hisarfever12/assets/css/../images/square.png");
+}
+
+.portbtn{
+    text-align: center;
+}
+
+@media screen and (max-width: 795px) {
+    .Register {
+        display: none;
+    }
+}

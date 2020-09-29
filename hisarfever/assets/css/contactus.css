@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    text-rendering: auto;
+    color: #181818;
+    line-height: 1.42857143;
+}
+.formline{
+    color: yellow;
+}
+
+@media screen and (max-width: 795px) {
+    .Register {
+        display: none;
+    }
+}
